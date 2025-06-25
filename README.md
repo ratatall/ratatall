@@ -28,8 +28,6 @@
 <p> <a href="https://github.com/ratatall/AI-Proposal-Generator">AI Proposal Generator</a></p>
 <p> <a href="https://github.com/ratatall/Simple-AI-Agent">Simple AI Genearator</a></p>
 
-<br>
-
 <h3 align="left">Web Development Projects</h3>
 <p> <a href="https://github.com/ratatall/QuizApplication">Quiz Service with Java</a></p>
 <p> <a href="https://github.com/ratatall/ticketApp">Ticket Application using next.js</a></p>
