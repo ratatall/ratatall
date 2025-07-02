@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adilkhan</h1>
 <h3 align="center">A Computer Science student from City University of Hong Kong. </h3>
 
-- 🌱 I’m currently learning **building AI Agents, with OpenAI API and no-code tools, such as n8n**
+- 🌱 I’m currently learning **building AI Agents, with OpenAI API and no-code tools, such as n8n and Flutter Development**
 
 - 💬 Ask me about **Java, three.js, React**
 
