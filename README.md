@@ -22,7 +22,7 @@
 
 <h1 align="center">My GitHub Projects</h1>
 
-<h3 align="left">Project made with Flutter</h3>
+<h3 align="left">Projects made with Flutter</h3>
 
 <p> <a href="https://github.com/ratatall/FoodAdvisor">Simple Food Advisor</a></p>
 <p> <a href="https://github.com/ratatall/LinkedinClone/tree/main">Linkedin Clone</a></p>
