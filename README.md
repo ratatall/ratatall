@@ -22,6 +22,11 @@
 
 <h1 align="center">My GitHub Projects</h1>
 
+<h3 align="left">Project made with Flutter</h3>
+
+<p> <a href="https://github.com/ratatall/FoodAdvisor">Simple Food Advisor</a></p>
+<p> <a href="https://github.com/ratatall/LinkedinClone/tree/main">Linkedin Clone</a></p>
+
 <h3 align="left">AI Agents</h3>
 
 <p> <a href="https://github.com/ratatall/AI-Travel-Destination-Generator">AI Travel Destination Generator</a></p>
