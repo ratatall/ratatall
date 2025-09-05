@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Adilkhan</h1>
-<h3 align="center">A Computer Science student from City University of Hong Kong. </h3>
+<h3 align="center">A CS student with strong software engineering foundations, exploring ML, backend, and cloud. Passionate about building impactful, real-world applications.</h3>
 
 - 🌱 I’m currently learning **building AI Agents, with OpenAI API and no-code tools, such as n8n and Flutter Development**
 
-- 💬 Ask me about **Java, three.js, React**
+- 💬 Ask me about **Flutter, React, Javascript**
 
 - 📫 How to reach me: **orakbay.adilkhan@gmail.com**
 
