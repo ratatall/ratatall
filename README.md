@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adilkhan</h1>
-<h3 align="center">A CS student with strong software engineering foundations, exploring ML, backend, and cloud. Passionate about building impactful, real-world applications.</h3>
+<h3 align="center">CS student | Building software across health-tech, edtech, and AI-enabled products | Interested in strong engineering, real users, and scalable systems</h3>
 
-- 🔭 I’m currently working on [Advancing Inclusive Gerontechnologies](https://edmundwjlee.com/advancing-inclusive-gerontechnologies-co-creating-virtual-reality-wearable-gloves-for-active-ageing-in-hong-kong-and-singapore/)
 
 - 🌱 I’m currently learning **building AI Agents, with OpenAI API and no-code tools, such as n8n and Flutter Development**
 
