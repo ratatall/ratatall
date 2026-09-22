@@ -1,4 +1,4 @@
-# Hi, I'm Adilkhan Orakbay
+# Hi, I'm Adilkhan (Addy)
 
 **Software engineer and computer science student at Columbia University**
 
